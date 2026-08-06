@@ -9,5 +9,6 @@ async function bootstrap() {
       'https://web-lunar-go9f.vercel.app', // ganti sesuai URL frontend kamu
     ],
   });
+  await app.listen(3001);
 }
 bootstrap();
