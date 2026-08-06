@@ -6,7 +6,7 @@ async function bootstrap() {
   app.enableCors({
     origin: [
       'http://localhost:3000',
-      'https://web-lunar-go9f.vercel.app', // ganti sesuai URL frontend kamu
+      'https://frontend-web-lunar.vercel.app', // ganti sesuai URL frontend kamu
     ],
   });
   await app.listen(3001);
