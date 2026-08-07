@@ -39,6 +39,8 @@ export default function RootLayout({
   return (
     <html lang="id">
       <head>
+        <title>Lunar Photospace</title>
+        <link rel="icon" href="/lunaricon.svg" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
           href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
