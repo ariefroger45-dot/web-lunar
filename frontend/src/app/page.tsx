@@ -158,8 +158,8 @@ export default function LandingPage() {
                   "Pencahayaan flash dan lensa yang kami pakai bikin warna kulit natural dan hasil tetap tajam.",
                 ],
                 [
-                  "Backdrop & properti custom",
-                  "Tema, warna, sampai properti bisa disesuaikan dengan konsep acara kamu, bukan pilihan itu-itu saja.",
+                  "Properti custom",
+                  "Tema, warna, properti bisa disesuaikan dengan konsep acara kamu, bukan pilihan itu-itu saja.",
                 ],
                 [
                   "Kru ramah & sigap",
