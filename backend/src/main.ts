@@ -6,7 +6,7 @@ async function bootstrap() {
   app.enableCors({
     origin: [
       'http://localhost:3000',
-      'https://lunarphotospace.com', // ganti sesuai URL frontend kamu
+      'https://www.lunarphotospace.com', // ganti sesuai URL frontend kamu
     ],
   });
   await app.listen(3001);
